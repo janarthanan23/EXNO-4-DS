@@ -32,10 +32,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-```
-Developed by : Bharath K
-Register No : 212222110006
-```
+
 ```
 import pandas as pd
 from scipy import stats
